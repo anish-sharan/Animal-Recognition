@@ -1,5 +1,11 @@
 # 🐾 Animal Image Classifier
 
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/anish-sharan/Animal-Recognition/blob/main/frontend/workings/Screenshot%202025-08-30%20at%204.45.05%E2%80%AFPM.png" alt="App Screenshot" width="600">
+</p>
+
 This project trains a **Deep Learning model** to classify animal images into 10 categories:
 `cane (dog), cavallo (horse), elefante (elephant), farfalla (butterfly), gallina (hen), gatto (cat), mucca (cow), pecora (sheep), ragno (spider), scoiattolo (squirrel)`.
 
